@@ -1,1 +1,1 @@
-# Temat pracy magisterskiej: identyfikacja zanków drogowych z wykorzystaniem klasyfikacji obrazów
+# Temat pracy magisterskiej: identyfikacja znaków drogowych z wykorzystaniem klasyfikacji obrazów
